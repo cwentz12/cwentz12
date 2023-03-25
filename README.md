@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hello!
+- I am currently a junior majoring in Computer Science at Southern New Hampshire University.
+
+- I have a previous Bachelor's degree in Chemistry.
+
+- My primary interests are:
+
+      Data Science | Data Analytics | Software Engineering | Data Engineering | Machine Learning Engineering
 
 <!--
 **cwentz12/cwentz12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
