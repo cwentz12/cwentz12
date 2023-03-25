@@ -7,6 +7,8 @@
 
       Data Science | Data Analytics | Software Engineering | Data Engineering | Machine Learning Engineering
 
+     ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cwentz12&theme=github_dark)
+
 <!--
 **cwentz12/cwentz12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
