@@ -7,7 +7,7 @@
 
       Data Science | Data Analytics | Software Engineering | Data Engineering | Machine Learning Engineering
 
-     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cwentz12&theme=dark)](https://github.com/cwentz12/github-readme-stats)
+     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cwentz12)](https://github.com/cwentz12/github-readme-stats)
 
 <!--
 **cwentz12/cwentz12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,3 +23,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cwentz12&theme=dark)](https://github.com/cwentz12/github-readme-stats)-->
