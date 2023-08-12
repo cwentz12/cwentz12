@@ -1,11 +1,15 @@
-### Hello!
-- I am currently a junior majoring in Computer Science at Southern New Hampshire University.
+### Hello! :wave:
+- I am a Computer Science major at SNHU.
 
-- I have a previous Bachelor's degree in Chemistry.
+- I also have a Bachelor's degree in Chemistry. 👨🏻‍🎓
 
 - My primary interests are:
 
-      Data Science | Data Analytics | Software Engineering | Data Engineering | Machine Learning Engineering
+   - Data Science :bar_chart:  <br />
+   - Data Analytics :chart_with_upwards_trend: <br />
+   - Software Engineering 👨‍💻 <br /> 
+   - Data Engineering 👨‍💻 <br />
+   - Machine Learning Engineering 👨‍💻
 
      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cwentz12&theme=chartreuse-dark)](https://github.com/cwentz12/github-readme-stats)
 
