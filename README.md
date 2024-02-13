@@ -12,7 +12,7 @@
    - Machine Learning Engineering 👨‍💻
    - Automation Engineering 👨‍💻
 
-     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cwentz12&theme=chartreuse-dark)](https://github.com/cwentz12/github-readme-stats)
+ <!--    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cwentz12&theme=chartreuse-dark)](https://github.com/cwentz12/github-readme-stats) -->
 
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
