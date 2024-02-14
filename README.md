@@ -5,12 +5,12 @@
 
 - My primary interests are:
 
+   - Automation Engineering 👨‍💻 <br />
    - Data Science :bar_chart:  <br />
    - Data Analytics :chart_with_upwards_trend: <br />
    - Software Engineering 👨‍💻 <br /> 
    - Data Engineering 👨‍💻 <br />
    - Machine Learning Engineering 👨‍💻
-   - Automation Engineering 👨‍💻
 
  <!--    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cwentz12&theme=chartreuse-dark)](https://github.com/cwentz12/github-readme-stats) -->
 
