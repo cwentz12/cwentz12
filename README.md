@@ -5,10 +5,9 @@
 
 - My primary interests are:
 
-   - Automation Engineering 👨‍💻 <br />
    - Data Science :bar_chart:  <br />
    - Data Analytics :chart_with_upwards_trend: <br />
-   - Software Engineering 👨‍💻 <br /> 
+   - Software Development 👨‍💻 <br /> 
    - Data Engineering 👨‍💻 <br />
    - Machine Learning Engineering 👨‍💻
 
