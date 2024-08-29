@@ -7,7 +7,8 @@
 
    - Data Science :bar_chart:  <br />
    - Data Analytics :chart_with_upwards_trend: <br />
-   - Software Development 👨‍💻 <br /> 
+   - Software Development 👨‍💻 <br />
+   - Product Management :man_office_worker: <br />
    - Data Engineering 👨‍💻 <br />
    - Machine Learning Engineering 👨‍💻
 
