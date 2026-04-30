@@ -1,8 +1,7 @@
 ### Hello! :wave:
-- I am a Computer Science major at SNHU.
-
-- I also have a Bachelor's degree in Chemistry. 👨🏻‍🎓
-
+- Incoming Senior Suppy Chain Management Analyst
+- BS Computer Science / BA Chemistry 👨🏻‍🎓
+  
 - My primary interests are:
 
    - Data Science :bar_chart:  <br />
