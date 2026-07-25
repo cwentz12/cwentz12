@@ -1,5 +1,5 @@
 ### Hello! :wave:
-- Incoming Senior Suppy Chain Management Analyst
+- Senior Suppy Chain Management Analyst
 - BS Computer Science / BA Chemistry 👨🏻‍🎓
   
 - My primary interests are:
